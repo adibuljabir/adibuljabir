@@ -1,3 +1,4 @@
+https://github.com/adibuljabir/adibuljabir/blob/main/Banner.jpg
 ### Hi there, I'm Adibul Jabir! 👋  
 🚀 **UI/UX Designer**  
 🎯 Passionate about crafting intuitive and engaging user experiences.
