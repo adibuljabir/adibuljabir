@@ -1,6 +1,6 @@
-![image alt] (https://github.com/adibuljabir/adibuljabir/blob/ec481c1a071a90b1751eee1c7a0e8b2129453ab6/Banner.jpg)
 ### Hi there, I'm Adibul Jabir! 👋  
-🚀 **UI/UX Designer**  
+![Adibul Jabir](https://github.com/adibuljabir/adibuljabir/blob/ec481c1a071a90b1751eee1c7a0e8b2129453ab6/Banner.jpg)  
+🚀 **UI/UX Designer | Graphic Designer | 3D Animator**  
 🎯 Passionate about crafting intuitive and engaging user experiences.
 
 ---
@@ -34,4 +34,4 @@
 ---
 
 ### ⚡ Fun Fact  
-I started as a **graphic designer**, transitioned into **3D animation**, and now specialize in **UI/UX design** while pursuing a degree in Computer Science & Engineering!
+I started as a **graphic designer**, transitioned into **3D animation**, and now specialize in **UI/UX design** while pursuing a degree in Computer Science!
