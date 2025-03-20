@@ -1,5 +1,5 @@
 ### Hi there, I'm Adibul Jabir! 👋  
-🚀 **UI/UX Designer | Graphic Designer | 3D Animator**  
+🚀 **UI/UX Designer**  
 🎯 Passionate about crafting intuitive and engaging user experiences.
 
 ---
