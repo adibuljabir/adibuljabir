@@ -1,6 +1,6 @@
   ![Adibul Jabir](https://github.com/adibuljabir/adibuljabir/blob/ec481c1a071a90b1751eee1c7a0e8b2129453ab6/Banner.jpg)  
 
-🚀 **UI/UX Designer | Graphic Designer | 3D Animator**  
+🚀 **UI/UX Designer**  
 🎯 Passionate about crafting intuitive and engaging user experiences.
 
 ---
