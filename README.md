@@ -33,4 +33,4 @@
 ---
 
 ### ⚡ Fun Fact  
-I started as a **graphic designer**, transitioned into **3D animation**, and now specialize in **UI/UX design** while pursuing a degree in Computer Science!
+I started as a **graphic designer**, transitioned into **3D animation**, and now specialize in **UI/UX design** while pursuing a degree in Computer Science & Engineering!
